@@ -8,4 +8,4 @@ I am a computer scientist excited about learning and traveling. I stepped foot i
 
 I can be reached via [email](jcheoh@purdue.edu). I'm always open to conversations and collaborations. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialincheoh)](https://github.com/anuraghazra/github-readme-stats)
+![Jia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialincheoh&show_icons=true&theme=radical)
