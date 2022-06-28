@@ -7,3 +7,5 @@ I am a computer scientist excited about learning and traveling. I stepped foot i
 - ⚡ Fun fact: I have a special fascination about satellite maps. When I am not coding, I play around with location coordinates, satellite maps, etc. on places that fascinates me the most. To me, satellites are some of the coolest invention. 
 
 I can be reached via [email](jcheoh@purdue.edu). I'm always open to conversations and collaborations. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jialincheoh)](https://github.com/anuraghazra/github-readme-stats)
