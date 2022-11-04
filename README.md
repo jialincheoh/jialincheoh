@@ -6,7 +6,8 @@ I am a computer scientist excited about learning and traveling. I stepped foot i
 
 - 🌱 I’m currently learning more about Natural Language Processing, Deep Learning and Network Science. 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I have a special fascination about satellite maps. When I am not coding, I play around with location coordinates, satellite maps, etc. on places that fascinates me the most. To me, satellites are some of the coolest invention. 
+- What I do daily: I am an entreprener at heart. I do a lot of coding and digital marketing on a daily basis. 
+- ⚡ Fun fact: I have an infinite love for swimming. 
 
 I can be reached via [email](jcheoh@purdue.edu). I'm always open to conversations and collaborations. 
 
