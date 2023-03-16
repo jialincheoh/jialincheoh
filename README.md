@@ -2,6 +2,8 @@
 
 <a href="https://stackoverflow.com/users/18313588/nerd"><img src="https://stackoverflow.com/users/flair/18313588.png?theme=dark" width="208" height="58" alt="profile for nerd at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for nerd at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
+<a href="https://stats.stackexchange.com/users/362150/nerd"><img src="https://stats.stackexchange.com/users/flair/362150.png" width="208" height="58" alt="profile for nerd at Cross Validated, Q&amp;A for people interested in statistics, machine learning, data analysis, data mining, and data visualization" title="profile for nerd at Cross Validated, Q&amp;A for people interested in statistics, machine learning, data analysis, data mining, and data visualization"></a>
+
 I am a computer scientist excited about learning and traveling. I stepped foot in over 10 countries so far. I got my BSc in Computer Science from Purdue University in the USA. I am currently a Master of Computer Science student at University of Illinois Urbana-Champaign in the USA and a PhD at Purdue. 
 
 - 🌱 I’m currently learning more about Natural Language Processing, Deep Learning and Network Science. 
