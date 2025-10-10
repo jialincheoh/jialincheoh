@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Jia
 
 I’m a **computer scientist and researcher** fascinated by **large language models** and **human–AI interaction**.  
-Currently, I’m a **Ph.D. candidate in Computer Science at Purdue University**, where my research explores how large-scale models learn, reason, and align with human understanding.
+Currently, I’m a **Ph.D. candidate at Purdue University**, where my research explores how large-scale models learn, reason, and align with human understanding.
 
 - 🌱 **Current focus:** studying how humans interpret and evaluate language model behavior.  
 - 🧠 **Research interests:** large language models, alignment, interpretability, reasoning, and NLP systems.  
