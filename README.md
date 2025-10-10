@@ -1,12 +1,15 @@
-### Hi, I'm Jia 👋
+### 👋 Hi, I’m Jia
 
-I am a computer scientist excited about learning and traveling. I stepped foot in over 10 countries so far. I got my BSc in Computer Science from Purdue University in the USA. I am currently a Master of Computer Science student at University of Illinois Urbana-Champaign in the USA and a PhD at Purdue. 
+I’m a **computer scientist and researcher** fascinated by **large language models** and **human–AI interaction**.  
+Currently, I’m a **Ph.D. candidate in Computer Science at Purdue University**, where my research explores how large-scale models learn, reason, and align with human understanding.
 
-- 🌱 I’m currently learning more about Natural Language Processing, Deep Learning and Network Science. 
-- 😄 Pronouns: She/her
-- 👻 What I do daily: I am an entreprener at heart. I do a lot of coding and digital marketing on a daily basis. 
-- ⚡ Fun fact: I have an infinite love for swimming. 
+- 🌱 **Current focus:** studying how humans interpret and evaluate language model behavior.  
+- 🧠 **Research interests:** large language models, alignment, interpretability, reasoning, and NLP systems.  
+- 🌍 **Outside the lab:** I’ve traveled to over 10 countries and love learning how people and cultures shape communication.  
+- 🏊 **Fun fact:** I’m an avid open-water swimmer with an infinite love for the ocean.  
+- 😄 **Pronouns:** she/her  
 
-I can be reached via [email](jcheoh@purdue.edu). I'm always open to conversations and collaborations. 
+📬 **Reach me at:** [jcheoh@purdue.edu](mailto:jcheoh@purdue.edu)  
+I’m always open to conversations, collaborations, or just geeking out about AI and language.
 
 
