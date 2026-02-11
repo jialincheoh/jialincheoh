@@ -9,7 +9,7 @@ Currently, I’m a **Ph.D. candidate at Purdue University**, where my research e
 - 🏊 **Fun fact:** I’m an avid open-water swimmer with an infinite love for the ocean.  
 - 😄 **Pronouns:** she/her  
 
-📬 **Reach me at:** [jcheoh@purdue.edu](mailto:jcheoh@purdue.edu)  
+📬 **Reach me at:** [jialincheoh9@gmail.com](mailto:jialincheoh9@gmail.com)  
 I’m always open to conversations, collaborations, or just geeking out about AI and language.
 
 
